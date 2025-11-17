@@ -1,0 +1,24 @@
+# Large media files
+video/
+*.mp4
+*.avi
+*.mov
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules (if any)
+node_modules/
+
+# Environment variables
+.env
+*.key
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

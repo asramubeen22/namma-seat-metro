@@ -1,0 +1,11 @@
+﻿# Dataset
+path: C:/Users/HP/OneDrive/Desktop/namma seat/backend/data/dataset
+train: images/train
+val: images/val
+
+# Number of classes (ONLY 1 - vacant_seat)
+nc: 1
+
+# Class names (ONLY vacant_seat)
+names: 
+  0: vacant_seat

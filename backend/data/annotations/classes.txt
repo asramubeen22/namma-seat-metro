@@ -1,0 +1,2 @@
+occupied_seat
+vacant_seat
